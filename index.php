@@ -1,7 +1,7 @@
 <?php 
 include 'koneksi.php'; 
 
-// Fungsi pembantu agar kodingan lebih rapi dan aman dari error 'null'
+
 function getData($conn, $query) {
     $result = mysqli_query($conn, $query);
     if ($result && mysqli_num_rows($result) > 0) {
