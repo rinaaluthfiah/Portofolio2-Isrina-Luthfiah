@@ -49,23 +49,6 @@ Database yang digunakan bernama portfolio_db, terdiri dari beberapa tabel:
 <img width="261" height="174" alt="Screenshot 2026-03-29 213942" src="https://github.com/user-attachments/assets/96f67357-6d9b-4696-9888-b21f71f0ffd3" />
 
 
-1️⃣ Tabel About 
-
-Berisi deskripsi mengenai diri secara lebih lengkap serta foto pendukung yang ditampilkan pada bagian About Me di website.
-
-2️⃣  Tabel Certificates
-
-Berisi data sertifikat atau pencapaian yang dimiliki, yang terdiri dari judul, deskripsi, dan gambar. Data ini ditampilkan dalam bentuk card pada section Certificates.
-
-
-3️⃣ Tabel Experience 
-
-Berisi data pengalaman  yang meliputi judul, deskripsi, dan gambar. Data ditampilkan secara otomatis menggunakan perulangan sehingga jumlahnya menyesuaikan dengan isi database.
-
-4️⃣  Tabel Profile
-
-Berisi data utama yang ditampilkan pada bagian Home, seperti nama, role atau bidang yang diminati, deskripsi singkat, serta foto profil.
-
 
   ## 🗂️ 𝐒𝐭𝐫𝐮𝐤𝐭𝐮𝐫 𝐅𝐨𝐥𝐝𝐞𝐫
 
