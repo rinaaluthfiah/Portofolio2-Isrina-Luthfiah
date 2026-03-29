@@ -27,32 +27,9 @@ Website portofolio ini dibuat sebagai tugas praktikum mata kuliah Pemrograman We
 Pada pengembangan tugas ini, website portofolio yang sebelumnya masih bersifat statis telah diubah menjadi website dinamis menggunakan PHP dan MySQL. Perubahan utama dari pengembangan ini adalah data yang sebelumnya ditulis langsung di dalam HTML (hardcode), kini diambil dari database sehingga lebih fleksibel dan mudah untuk diperbarui tanpa harus mengubah kode program.
 
 
-## 🌟 𝐅𝐢𝐭𝐮𝐫 𝐖𝐚𝐣𝐢𝐛
-  
-  1️. Section Home (Hero Section) berisi perkenalan singkat
-  
-  2️. Section About Me berisi deskripsi diri, skills (progress bar), dan pengalaman
-  
-  
-  3️. Section Certificates berisi daftar sertifikat dalam bentuk card atau layout grid
-  
-  
-  4️. Minimal terdapat 1 Navbar
-  
-  
-  5️. Minimal terdapat 1 Gambar
-
-  6️. Menggunakan struktur dasar HTML yang benar (html, head, body)
-
-  7️. Menggunakan CSS untuk styling (warna, background, layout, font, dll)
-
-
-  8️. Tampilan tersusun rapi dan responsif
-
-
   ## 🌟 𝐅𝐢𝐭𝐮𝐫 𝐓𝐚𝐦𝐛𝐚𝐡𝐚𝐧
 
-Selain fitur utama, website ini juga memiliki beberapa fitur tambahan, yaitu:
+Website ini memiliki beberapa fitur tambahan, yaitu:
 
 🔹 Website sudah bersifat dinamis, dimana data diambil langsung dari database menggunakan PHP dan MySQL
 
@@ -92,7 +69,8 @@ Berisi data utama yang ditampilkan pada bagian Home, seperti nama, role atau bid
 
   ## 🗂️ 𝐒𝐭𝐫𝐮𝐤𝐭𝐮𝐫 𝐅𝐨𝐥𝐝𝐞𝐫
 
-  <img width="201" height="382" alt="image" src="https://github.com/user-attachments/assets/236f3e67-d903-4979-b3a6-8df750a03d97" />
+ <img width="247" height="505" alt="image" src="https://github.com/user-attachments/assets/17520928-d793-4814-8e3e-a63a049a6d00" />
+
 
   ##  𝐓𝐚𝐦𝐩𝐢𝐥𝐚𝐧 𝐒𝐞𝐭𝐢𝐚𝐩 𝐒𝐞𝐜𝐭𝐢𝐨𝐧/𝐅𝐢𝐭𝐮𝐫 
 
